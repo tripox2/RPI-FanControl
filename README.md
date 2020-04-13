@@ -1,2 +1,2 @@
 # RPI-FanControl
-Control fan on RPI depedening on temperature
+Controls the fan on RPI depending on temperature
